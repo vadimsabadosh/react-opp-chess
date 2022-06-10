@@ -1,4 +1,6 @@
-# Minimal chess game in OOP style
+# Minimal chess game 
+
+# OOP style in Typescript and React
 
 ## checkmate hasn't done
 
